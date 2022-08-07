@@ -27,10 +27,10 @@ The connectors itself are called MOLEX SL Modular Connectors
 ## DELL 4 PIN
 
 ### PIN
-1. 
-2. 
-3. 
-4. 
+1. RPM
+2. 12V
+3. GND
+4. PWM
 
 ## DELL 5 PINOUT
 ### PIN
